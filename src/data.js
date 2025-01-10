@@ -2,6 +2,7 @@ import p1 from "./assets/memory3.png";
 import p2 from "./assets/movieapp.png";
 import p3 from "./assets/imagesearch.png";
 import p4 from "./assets/finder.png";
+import p5 from "./assets/todo.png";
 
 export const projects = [
   {
@@ -27,5 +28,12 @@ export const projects = [
     title: "Github Finder",
     url: "https://finder-luna.netlify.app/",
     image: p4,
+  },
+
+  {
+    id: 5,
+    title: "todo list",
+    url: "https://todolist-luna.netlify.app/",
+    image: p5,
   },
 ];
