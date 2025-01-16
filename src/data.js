@@ -3,6 +3,7 @@ import p2 from "./assets/movieapp.png";
 import p3 from "./assets/imagesearch.png";
 import p4 from "./assets/finder.png";
 import p5 from "./assets/todo.png";
+import p6 from "./assets/날씨1.jpg";
 
 export const projects = [
   {
@@ -35,5 +36,11 @@ export const projects = [
     title: "todo list",
     url: "https://todolist-luna.netlify.app/",
     image: p5,
+  },
+  {
+    id: 6,
+    title: "weather-app",
+    url: "https://weather-fairy-kimluna.netlify.app/",
+    image: p6,
   },
 ];
